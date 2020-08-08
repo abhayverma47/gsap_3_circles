@@ -1,0 +1,24 @@
+.App {
+  visibility: hidden;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.circle {
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background-color: #fdcf51;
+  margin-top: 2em;
+}
+
+.red {
+  background-color: #fd5151;
+}
+
+.blue {
+  background-color: #51a0fd;
+}
